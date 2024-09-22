@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "fb42dba1-4f90-41db-8e76-0b3203d80945",
+    "Name": "UsrRealityRelatedPage",
+    "ModifiedOnUtc": "\/Date(1726980210000)\/",
+    "ManagerName": "AddonSchemaManager",
+    "Caption": "Reality (Page settings)",
+    "DependsOn": []
+  }
+}

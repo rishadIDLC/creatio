@@ -316,11 +316,6 @@
 		</Reference>
 	</ItemGroup>
 	<ItemGroup Label="Package References">
-		<Reference Include="Terrasoft.Configuration">
-			<HintPath>$(RelativePkgFolderPath)/../bin/Terrasoft.Configuration.dll</HintPath>
-			<SpecificVersion>False</SpecificVersion>
-			<Private>False</Private>
-		</Reference>
 		<Reference Include="CrtCore">
 			<HintPath>$(RelativePkgFolderPath)/CrtCore/$(StandalonePackageAssemblyPath)/CrtCore.dll</HintPath>
 			<SpecificVersion>False</SpecificVersion>
@@ -864,7 +859,7 @@
 	</ItemGroup>
 	<ItemGroup Label="Standalone package external assembly references" />
 	<ItemGroup Label="Entity Files">
-		<Compile Remove="$(RelativePkgFolderPath)/DevClassic/Schemas/UsrRealityTypeClassic/UsrRealityTypeClassic.cs" Condition="Exists('$(RelativePkgFolderPath)/DevClassic/Schemas/UsrRealityTypeClassic/UsrRealityTypeClassic.cs')" />
+		<Compile Remove="$(RelativePkgFolderPath)/UsrReality/Schemas/UsrReality/UsrReality.cs" Condition="Exists('$(RelativePkgFolderPath)/UsrReality/Schemas/UsrReality/UsrReality.cs')" />
 	</ItemGroup>
 	<ItemGroup Label="3rd Party References"></ItemGroup>
 	<Target Name="Paths" BeforeTargets="BeforeCompile">

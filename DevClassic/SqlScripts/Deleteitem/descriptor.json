@@ -1,0 +1,11 @@
+﻿{
+  "SqlScript": {
+    "UId": "e82585b1-20bf-d9e6-42df-b65ebee4aafc",
+    "Name": "Deleteitem",
+    "DBEngineType": 0,
+    "InstallType": 2,
+    "ModifiedOnUtc": "\/Date(1726650838000)\/",
+    "BackwardCompatibilityConfirmed": false,
+    "DependsOn": []
+  }
+}

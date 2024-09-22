@@ -1,0 +1,1 @@
+delete from UsrRealityTypeClassic where Name = 'House'

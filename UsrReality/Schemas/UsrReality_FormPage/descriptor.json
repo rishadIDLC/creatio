@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "258f3a61-3260-48cd-81e2-78a0b580ab70",
+    "Name": "UsrReality_FormPage",
+    "ModifiedOnUtc": "\/Date(1726980210000)\/",
+    "Parent": {
+      "UId": "3b2e117f-8c6b-4ca5-80a2-7ebb497cddf9",
+      "Name": "PageWithTabsFreedomTemplate"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Reality form page",
+    "DependsOn": []
+  }
+}

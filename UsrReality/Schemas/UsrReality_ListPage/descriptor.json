@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "7c21f8be-31a2-4fa7-bc8b-4881f00ae8d7",
+    "Name": "UsrReality_ListPage",
+    "ModifiedOnUtc": "\/Date(1726980210000)\/",
+    "Parent": {
+      "UId": "3334b6c0-c8ab-4b59-a367-0c9182102552",
+      "Name": "ListPageV2Template"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Reality list page",
+    "DependsOn": []
+  }
+}
